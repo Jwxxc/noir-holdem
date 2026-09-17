@@ -1,73 +1,74 @@
-# NOIR HOLD’EM · 交互版 1.0
+# NOIR HOLD’EM · Interactive Edition 1.0
 
-**和八位有脾气的动物牌手，打一场有来有回的德州扑克。**
+**Pull up a chair. Eight animal opponents have something to say.**
 
-[**下载 Mac 版 · 约 159 MB**](https://github.com/Jwxxc/noir-holdem/releases/download/interactive-v1.0/NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip) · [版本与安装说明](https://github.com/Jwxxc/noir-holdem/releases/tag/interactive-v1.0) · [反馈问题或体验](https://github.com/Jwxxc/noir-holdem/issues/new/choose)
+[**Download for Mac · 159 MB**](https://github.com/Jwxxc/noir-holdem/releases/download/interactive-v1.0/NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip) · [Release & installation guide](https://github.com/Jwxxc/noir-holdem/releases/tag/interactive-v1.0) · [Share feedback](https://github.com/Jwxxc/noir-holdem/issues/new/choose)
 
-适用于 **苹果 M 系列 Mac · macOS 12 及以上**。单机可离线运行，无需注册账号，没有真钱功能。
+**Apple Silicon Mac · macOS 12+ · English & Simplified Chinese**
 
-![交互版 1.0 游戏画面：点头像向对手发话，对手在牌桌上回应](screenshots/table-talk.jpg)
+Offline single-player. No account required. No real-money features.
 
-## 欢迎坐下打几手
+![A six-player table in NOIR HOLD’EM, with English controls and character dialogue](screenshots/table-talk-en.png)
 
-做了一款黑金风格的德州扑克游戏《NOIR HOLD’EM》，这次想把交互版 1.0 分享出来，邀请大家坐下打几手。游戏里有八位性格各异的动物牌手：点头像，可以夸一句“好牌”，也可以试探一句“你猜我有没有”。他们会结合牌桌上发生的事接话，在思考、面对大注、赢池或输池时露出不同表情。想随手玩，可以开快速牌局；想认真较量，可以挑战夜局和淘汰赛，再回看关键手牌。
+## A little conversation between hands
 
-欢迎来试试，告诉我哪个对手最难缠、哪句回应最好玩，以及哪里还不够顺手。
+NOIR HOLD’EM is a Texas Hold’em game with a dark, gold-accented table and eight animal characters with distinct personalities. Click a portrait to compliment an opponent, challenge them, or keep them guessing. They respond to what happens at the table, with expressions that change as they think, face a big bet, win a pot, or lose one.
 
-## 可以体验什么
+Play a quick game, settle into a longer night session, or try a freezeout tournament. Afterwards, revisit key hands and explore a different decision in a separate practice branch.
 
-- **点头像，桌边聊两句。** 六种快捷表达，可以向指定 AI 或全桌发话。八位角色共有 568 条中英对照台词，按公开牌局场景和近期对话选择回应。
-- **看得见的角色反应。** 思考、面对大注、赢池和输池会触发表情变化，配合发牌、筹码、摊牌动画和音效，营造牌桌氛围。
-- **不同性格，不同难度。** 八位角色、四档 AI 难度；可以开快速牌局，也可以体验夜局和淘汰赛。
-- **打完回头看。** 夜局报告、关键手牌复盘和独立练习，方便重看自己的选择。
-- **朋友同桌。** Mac 主持局域网牌桌后，同一 Wi-Fi 下的朋友可以用手机或电脑浏览器加入，支持 2–6 人真人与 AI 混合牌桌。
-- **中文 / English。** 游戏内可切换语言。
+Give it a few hands. I’d love to hear which opponent gave you trouble, which exchange made you smile, and what could feel better.
 
-互动采用本地台词选择，不是自由输入聊天。角色回应和表情用于桌边互动，不代表它会泄露自己的暗牌。
+## What you can try
 
-## 下载与打开
+- **Talk across the table.** Choose from six quick phrases addressed to one AI opponent or the whole table. The eight characters share a library of 568 bilingual dialogue lines, selected according to public events and recent conversation.
+- **Watch the reactions.** Expressive portraits, card and chip animations, showdown effects, and sound bring the table to life.
+- **Find your pace.** Eight characters, four AI difficulty levels, quick games, night sessions, and single-table freezeout tournaments.
+- **Revisit your decisions.** Night reports, hand review, and separate practice branches let you look back at key moments.
+- **Bring friends.** Host a 2–6 player table on a Mac, with people and AI mixed together. Friends on the same Wi-Fi can join through a modern phone or desktop browser.
+- **Play in English or Simplified Chinese.** Switch languages from the title screen or in-game settings.
 
-1. 点击上方 **下载 Mac 版**，或到 [Releases](https://github.com/Jwxxc/noir-holdem/releases/latest) 下载 `NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip`。
-2. 解压，将 **交互版 1.0 — NOIR HOLD'EM.app** 拖入“应用程序”。
-3. 双击打开，按游戏内引导开始。无需安装 Node.js、Python 或其他开发工具。
+Table talk uses local dialogue selections, rather than free-text chat. Reactions are part of the social experience and do not reveal an opponent’s hidden cards.
 
-请下载上述游戏 ZIP；GitHub 自动显示的 `Source code (zip)` / `Source code (tar.gz)` 仅包含这个发布仓库的介绍和截图，不包含游戏程序。
+## Download and install
 
-### 首次打开被系统拦截
+1. Download **[NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip](https://github.com/Jwxxc/noir-holdem/releases/download/interactive-v1.0/NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip)**.
+2. Unzip it and drag the included **.app** into **Applications**. The app’s filename includes its original Chinese edition label; look for **NOIR HOLD’EM** and **1.0**.
+3. Open the app. No Node.js, Python, or other developer tools are needed.
+4. **For English, click “EN” in the top-right corner of the title screen.** The game starts in Chinese on a fresh installation; this button switches it to English.
 
-此分享版尚未经过苹果开发者公证。确认下载来自本仓库后，先尝试打开一次，再到 **系统设置 → 隐私与安全 → 仍要打开**，按系统提示确认。macOS 12 的入口为“系统偏好设置 → 安全性与隐私 → 通用”。无需关闭系统安全保护。
+GitHub’s automatically generated **Source code (zip)** and **Source code (tar.gz)** files contain this download page’s materials, not the game. Download the named Mac ZIP above.
 
-若系统明确提示恶意软件，或没有“仍要打开”选项，请停止并在 Issues 反馈提示内容。详细步骤见压缩包中的“先读我：安装与打开”，也可参考 [Apple 官方说明](https://support.apple.com/zh-cn/102445)。
+### First launch on macOS
 
-### 支持范围
+This build is not notarized by Apple. If macOS blocks it, first try opening the app, then go to **System Settings → Privacy & Security → Open Anyway** and follow the prompts. On macOS 12, use **System Preferences → Security & Privacy → General**. You do not need to disable system security protections.
 
-| 使用方式 | 当前支持 |
+If macOS explicitly reports malware, or “Open Anyway” is unavailable, stop and report the message in Issues. See [Apple’s instructions](https://support.apple.com/en-us/102445).
+
+### Supported ways to play
+
+| Mode or platform | Availability |
 | --- | --- |
-| 直接安装游戏 | 苹果 M 系列 Mac，macOS 12 或更新系统 |
-| 单机对 AI | 可离线运行 |
-| 朋友联机 | 同一 Wi-Fi，由 Mac 主持；朋友通过现代浏览器加入 |
-| Windows / Intel Mac 原生安装包 | 本次未提供 |
-| 点网页链接直接单机试玩 | 本次未提供 |
-| 异地互联网联机 | 本次未提供 |
+| Mac app | Apple Silicon Macs running macOS 12 or later |
+| Single-player vs AI | Works offline |
+| Local multiplayer | Same Wi-Fi, hosted by a Mac; guests join in a browser |
+| Windows or Intel Mac installers | Not included in this release |
+| Browser-only single-player demo | Not included in this release |
+| Internet multiplayer with remote friends | Not included in this release |
 
-包内不包含作者的个人存档；游戏会在玩家自己的 Mac 上保存进度。
+The download contains no personal saved games from the developer. Your progress is saved on your own Mac.
 
-![交互版 1.0 的手牌结算界面](screenshots/hand-result.jpg)
+![The English title screen, with quick games, freezeout tournaments, night sessions, and review tools](screenshots/home-en.png)
 
-## 反馈
+## Feedback
 
-欢迎在 [Issues](https://github.com/Jwxxc/noir-holdem/issues) 留下体验或问题。遇到问题时，请尽量写明 Mac 芯片、macOS 版本、游戏模式和复现步骤；截图请避免带入个人信息。
+Use [Issues](https://github.com/Jwxxc/noir-holdem/issues) to share impressions, suggestions, or bugs. For a bug report, please include your Mac chip, macOS version, game mode, and steps to reproduce it. Avoid including personal information in screenshots.
 
-## 关于这个仓库
+## About this repository
 
-这里用于 **成品下载、版本说明和玩家反馈**，不包含完整开发源码。对外版本为 **交互版 1.0**，应用内部版本为 **3.2.3 / 3002003**。
+This repository provides **game downloads, release notes, and player feedback**. It does not include the full development source. The public edition is **Interactive Edition 1.0**; the app’s internal version is **3.2.3 / 3002003**.
 
-安装包 SHA-256：
+Download SHA-256:
 
 ```text
 b776158fcbfbedcab2fcbf7dd8facb9515d7fac3c83562241ba5b589efa08553
 ```
-
----
-
-**English:** NOIR HOLD’EM is an offline Texas Hold’em game with eight animal characters, local table talk, expressive portraits, four AI difficulty levels, quick games, night sessions, tournaments, and hand review. Chinese and English are available in-game. This release supports Apple Silicon Macs running macOS 12 or later. It has no real-money features. Same-Wi-Fi multiplayer is available with a Mac host; a public browser demo and internet multiplayer are not included. The app is not Apple-notarized, so macOS may require “Open Anyway” on first launch.
