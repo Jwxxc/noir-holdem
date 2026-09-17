@@ -4,7 +4,7 @@
 
 [**Download for Mac · 159 MB**](https://github.com/Jwxxc/noir-holdem/releases/download/interactive-v1.0/NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip) · [Release & installation guide](https://github.com/Jwxxc/noir-holdem/releases/tag/interactive-v1.0) · [Share feedback](https://github.com/Jwxxc/noir-holdem/issues/new/choose)
 
-**Apple Silicon Mac · macOS 12+ · English & Simplified Chinese**
+**Apple Silicon Mac · macOS 12+ · English by default · Simplified Chinese available**
 
 Offline single-player. No account required. No real-money features.
 
@@ -32,9 +32,9 @@ Table talk uses local dialogue selections, rather than free-text chat. Reactions
 ## Download and install
 
 1. Download **[NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip](https://github.com/Jwxxc/noir-holdem/releases/download/interactive-v1.0/NOIR-HOLDEM-Interactive-1.0-macOS-arm64.zip)**.
-2. Unzip it and drag the included **.app** into **Applications**. The app’s filename includes its original Chinese edition label; look for **NOIR HOLD’EM** and **1.0**.
+2. Unzip it and drag **NOIR HOLD'EM Interactive 1.0.app** into **Applications**.
 3. Open the app. No Node.js, Python, or other developer tools are needed.
-4. **For English, click “EN” in the top-right corner of the title screen.** The game starts in Chinese on a fresh installation; this button switches it to English.
+4. **New installations open in English.** Use the language button in the top-right corner of the title screen to switch to Simplified Chinese, and **EN** to switch back. Your choice is remembered. Updates preserve an existing language preference.
 
 GitHub’s automatically generated **Source code (zip)** and **Source code (tar.gz)** files contain this download page’s materials, not the game. Download the named Mac ZIP above.
 
@@ -65,10 +65,10 @@ Use [Issues](https://github.com/Jwxxc/noir-holdem/issues) to share impressions, 
 
 ## About this repository
 
-This repository provides **game downloads, release notes, and player feedback**. It does not include the full development source. The public edition is **Interactive Edition 1.0**; the app’s internal version is **3.2.3 / 3002003**.
+This repository provides **game downloads, release notes, and player feedback**. It does not include the full development source. The public edition is **Interactive Edition 1.0**; the app’s internal version is **3.2.4 / 3002004**.
 
 Download SHA-256:
 
 ```text
-b776158fcbfbedcab2fcbf7dd8facb9515d7fac3c83562241ba5b589efa08553
+3663b3613656787bf7c9cc7ba65069cbf00a27781205d779de2f5c55a3fec2b3
 ```
