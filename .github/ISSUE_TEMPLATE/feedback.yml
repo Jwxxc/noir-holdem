@@ -1,0 +1,21 @@
+name: 体验反馈 / Feedback
+description: 分享体验、提出建议或报告问题。
+title: "[反馈] "
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: 想告诉我们什么？ / Feedback
+      description: 体验、建议或遇到的问题都可以写在这里。
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 设备与系统 / Device and macOS
+      placeholder: 例如 MacBook Air M2，macOS 15
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤 / Steps to reproduce
+      description: 如遇到问题，请补充游戏模式、操作步骤和实际结果；截图请避免带入个人信息。
